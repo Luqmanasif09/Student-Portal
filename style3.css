@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('w1.jpg');
+    -webkit-backgound-size:cover;
+    background-size: cover;
+    font-family: Arial;
+}
+.Page1{
+    max-width: 800px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 28px;
+    margin: auto;
+    opacity: 1;
+    background: rgba(44, 33, 206, 0.671);
+    box-sizing: border-box;
+    color: grey;
+    padding: 20px;
+    margin-top: 50px;
+}
+.Page2{
+    max-width:800px ;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 40px;
+    height: 720;
+    opacity: 0.8;
+    margin: auto;
+    background: rgba(0,0,0,0.8);
+    box-sizing: border-box;
+    color: grey;
+    padding: 20px;
+    margin-top:100px;
+}
+.Page3{
+    max-width:800px ;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 40px;
+    height: 720;
+    margin: auto;
+    opacity: 0.8;
+    background: rgba(0,0,0,0.8);
+    box-sizing: border-box;
+    color: grey;
+    padding: 20px;
+    margin-top: 120px;
+}
+h1{
+    text-align: center;
+    padding-top: 0%;
+    font-weight: bold;
+    color: burlywood;
+}
+h2{
+    text-align: center;
+    font-weight: bold;
+    color: burlywood;
+}
